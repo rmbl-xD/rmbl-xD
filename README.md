@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Azure IoT solutions for datagroup SE.
 
 ### 🌱 I’m currently learning ...
-AWS because Azure gets boring ;)
+AWS because Azure gets boring 😄
 
 ### 👯 I’m looking to collaborate on ...
 Projects that make my daily work easier.
