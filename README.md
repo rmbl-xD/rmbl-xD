@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 ### 💬 Ask me about .NET and Azure. 
 
 ### 📫 How to reach me:
-
-  - [LinkedIn](https://www.linkedin.com/in/francesco-caprio-3b6557131/) 
+- [LinkedIn](https://www.linkedin.com/in/francesco-caprio-3b6557131/) 
 
 ### ⚡ Fun fact: From 2002 till 2004 I was a professional Enemy Territory player with actual salary. 
