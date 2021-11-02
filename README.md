@@ -28,9 +28,6 @@ Projects that make my daily work easier.
 ### 💬 Ask me about ...
 .NET and Azure. 
 
-### 😄 Pronouns ...
-I wished I was born as an Apache Helicopter but my dad made me a dude.
-
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/francesco-caprio-3b6557131/) 
 
