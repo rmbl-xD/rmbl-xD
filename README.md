@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **rmbl-xD/rmbl-xD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 ### 👯 I’m looking to collaborate on projects that makes my daily work easier.
 
 ### 💬 Ask me about .NET and Azure. 
+
+### 😄 Pronouns
+I wished I was a Apache Helicopter but my dads cromosom made me a dude.
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/francesco-caprio-3b6557131/) 
