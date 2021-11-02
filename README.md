@@ -32,4 +32,4 @@ Projects that make my daily work easier.
 - [LinkedIn](https://www.linkedin.com/in/francesco-caprio-3b6557131/) 
 
 ### ⚡ Fun fact: 
-From 2002 till 2004 I was a professional Enemy Territory player with actual salary. 
+From 2002 till 2004 I was a professional [Wolfenstein: Enemy Territory](https://www.splashdamage.com/games/wolfenstein-enemy-territory/) player with actual salary. 
