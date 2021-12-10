@@ -23,7 +23,7 @@ Azure IoT solutions for datagroup SE.
 AWS because Azure gets boring 😄
 
 ### 👯 I’m looking to collaborate on ...
-Projects that make my daily work easier.
+IoT, Medical Software, Azure, AWS
 
 ### 💬 Ask me about ...
 .NET, Azure and TRANSFORMERS® 
