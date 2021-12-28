@@ -28,9 +28,6 @@ IoT, Medical Software, Azure, AWS
 ### 💬 Ask me about ...
 .NET, Azure and TRANSFORMERS® 
 
-### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/francesco-caprio-3b6557131/) 
-
 ### ⚡ Fun fact: 
 From 2002 till 2004 I was a professional [Wolfenstein: Enemy Territory](https://www.splashdamage.com/games/wolfenstein-enemy-territory/) player with actual salary. 
 
@@ -48,3 +45,11 @@ From 2002 till 2004 I was a professional [Wolfenstein: Enemy Territory](https://
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
+   <br>
+<div>
+ 
+ ### 📫 How to reach me:
+  <a href="https://www.linkedin.com/in/francesco-caprio-3b6557131/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ 
+</div>
