@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 
 ### 🔭 I’m currently working on ...
-Azure IoT solutions for datagroup SE.
+different cloud solutions as CTO/Director of Software Engineering at datagroup SE.
 
 ### 🌱 I’m currently learning ...
 AWS because Azure gets boring 😄
 
 ### 👯 I’m looking to collaborate on ...
-IoT, Medical Software, Azure, AWS
+Software Engineering, Azure, AWS, IoT, Medical Software
 
 ### 💬 Ask me about ...
 .NET, Azure and TRANSFORMERS® 
