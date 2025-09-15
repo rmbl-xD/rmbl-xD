@@ -29,7 +29,7 @@ Software Engineering, Azure, AWS, IoT, Medical Software
 .NET, Azure and TRANSFORMERS® 
 
 ### ⚡ Fun fact: 
-From 2002 till 2004 I was a professional [Wolfenstein: Enemy Territory](https://www.splashdamage.com/games/wolfenstein-enemy-territory/) player with actual salary. 
+From 2002 till 2004 I was a professional [Wolfenstein: Enemy Territory](https://www.splashdamage.com/games/wolfenstein-enemy-territory/) player. 
 
 ---
 
