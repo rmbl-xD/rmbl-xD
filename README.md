@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 different cloud solutions as Head of Software Engineering at datagroup SE (Ulm).
 
 ### 🌱 I’m currently learning ...
-AWS because Azure gets boring 😄
+3D Printing my childhood toys like Dino Riders to fit with Jurassic World/Park Dinosaurs.
 
 ### 👯 I’m looking to collaborate on ...
 Software Engineering, Azure, AWS, IoT, Medical Software
