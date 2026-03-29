@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### 🔭 I’m currently working on ...
-different cloud solutions as CTO/Director of Software Engineering at datagroup SE.
+different cloud solutions as Head of Software Engineering at datagroup SE (Ulm).
 
 ### 🌱 I’m currently learning ...
 AWS because Azure gets boring 😄
